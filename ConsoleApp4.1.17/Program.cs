@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Напишите свой любимый цвет на ангийском языке с маленькой буквы");
+            Console.WriteLine("Напишите свой любимый цвет на ангийском языке с маленькой буквы:");
             var color = Console.ReadLine();
 
             if (color == "red") 
